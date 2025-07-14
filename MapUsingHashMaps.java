@@ -83,7 +83,9 @@ using iterators {
 }
 
 using enhanced for loop {
-
+	for(TypeofHashset variable : hashset_name){
+		Sopln(city);
+	}
 
     
 }
