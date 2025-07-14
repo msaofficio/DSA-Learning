@@ -91,6 +91,10 @@ using enhanced for loop {
 }
     // 
     // 
+TreeSet - sorted in ascending order - null values are not allowed
+
+	Union of arrays - Arr1 in set, Arr2 in set ---- set.size() = union
+	Intersection ___ 1. Add all elements of arr1 - loop arr2 - check if exissts in set - count++, remove el   (O(n+m)) 	
     // 
     // 
     // 
